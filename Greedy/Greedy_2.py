@@ -1,12 +1,7 @@
 arr_n, M, K = map(int,input().split())
 arr = list(map(int, input().split()))
 
-for i in range(arr_n-1):
-    if i < len(arr):
-        if arr[i] > arr[i+1]:
-            temp = arr[i]
-            arr[i], arr[i+1] = arr[i+1], temp
-
+arr.sort()
 arr_sum = 0
 arr_count = 0
 
