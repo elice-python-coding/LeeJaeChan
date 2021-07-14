@@ -9,5 +9,4 @@ while N != 1:
         N -= 1
         n_count += 1
 
-
 print(n_count)
