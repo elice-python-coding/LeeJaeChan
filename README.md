@@ -4,3 +4,4 @@
 * 12.7.21 add Greedy_4
 * 13.7.21 add Greedy>심화>Adventurer_Guild.py
 * 14.7.21 add RoyalKnight.py Time.py UDLR.py Adventurer_Guild.py
+* 16.7.21 add Lucky_Straight.py

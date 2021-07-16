@@ -8,4 +8,3 @@ for h in range(N + 1):
                 Time_count += 1
 
 print(Time_count)
-        

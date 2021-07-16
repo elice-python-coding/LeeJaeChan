@@ -12,3 +12,4 @@ for move in direction:
         move_point += 1
 
 print(move_point)
+    
